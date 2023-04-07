@@ -1,0 +1,8 @@
+C:\Users\yanna\source\repos\Hotel-System\Hotel-System\bin\Debug\Hotel-System.exe.config
+C:\Users\yanna\source\repos\Hotel-System\Hotel-System\bin\Debug\Hotel-System.exe
+C:\Users\yanna\source\repos\Hotel-System\Hotel-System\bin\Debug\Hotel-System.pdb
+C:\Users\yanna\source\repos\Hotel-System\Hotel-System\obj\Debug\Hotel-System.csproj.AssemblyReference.cache
+C:\Users\yanna\source\repos\Hotel-System\Hotel-System\obj\Debug\Hotel-System.csproj.SuggestedBindingRedirects.cache
+C:\Users\yanna\source\repos\Hotel-System\Hotel-System\obj\Debug\Hotel-System.csproj.CoreCompileInputs.cache
+C:\Users\yanna\source\repos\Hotel-System\Hotel-System\obj\Debug\Hotel-System.exe
+C:\Users\yanna\source\repos\Hotel-System\Hotel-System\obj\Debug\Hotel-System.pdb
